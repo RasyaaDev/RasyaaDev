@@ -63,20 +63,6 @@ const rasya = {
 
 </div>
 
-## 🔥 Featured Projects
-
-<!-- Ganti nama repo di bawah dengan project terbaikmu -->
-<div align="center">
-
-<a href="https://github.com/RasyaaDev/REPO-1">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=RasyaaDev&repo=REPO-1&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=12" />
-</a>
-<a href="https://github.com/RasyaaDev/REPO-2">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=RasyaaDev&repo=REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=12" />
-</a>
-
-</div>
-
 ## 📊 GitHub Analytics
 
 <!--
